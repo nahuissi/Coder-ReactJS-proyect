@@ -20,15 +20,18 @@
   margin-top: 40px;
 }
 
+/*counter-button*/
 .counter-button {
   cursor: pointer;
   font-weight: bold;
 }
 
+/*delete-button*/
 .cart-delete-button {
   cursor: pointer;
 }
 
+/*total items*/
 .cart-items-total {
   background-color: red;
   color: white;

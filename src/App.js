@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-import React from 'react';
-import NavBar from './components/NavBar';
-import ItemListContainer from './components/ItemListContainer';
-
-function App() {
-  return (
-    <div>
-      <NavBar />
-      <ItemListContainer greeting="Tienda De Ropa En Descuento" />
-      
-    </div>
-=======
 import Home from "./componets/Home/Home";
 import CartContent from "./componets/CartContent/CartContent";
 import DataProvider from "./componets/Context/DataContext";
@@ -26,7 +13,6 @@ function App() {
         </Routes>
       </BrowserRouter>
     </DataProvider>
->>>>>>> 8c61840 (segundo commit)
   );
 }
 
