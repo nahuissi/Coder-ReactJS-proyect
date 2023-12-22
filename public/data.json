@@ -27,5 +27,12 @@
     "price": 32,
     "img": "https://cdn2.vectorstock.com/i/thumb-large/27/83/brown-closed-book-vector-2692783.jpg",
     "quanty": 1
+  },
+  {
+    "id": 5,
+    "name": "Cumbres borrascosas",
+    "price": 45,
+    "img": "https://cdn2.vectorstock.com/i/thumb-large/27/83/brown-closed-book-vector-2692783.jpg",
+    "quanty": 1
   }
 ]
